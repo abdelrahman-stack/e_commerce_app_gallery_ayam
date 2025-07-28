@@ -1,0 +1,2 @@
+const kPaypalSecretKey = 'EJ-mRNgcViPQUW5my9mmrOIb-02QjRiFeOn8bqLmphu34vcbDYlqjKmBN3IFY7dVSGh_MqVOtmm1tmfo';
+const kPaypalClientId = 'Ad-OTiVSZpX9jvSI7fNp_9HYvTOhTSunf4TCZXzvj4X8_Fvd1_FZY2q8PLefXc7h6ERhNoVV0THfJFoC';
