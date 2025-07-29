@@ -15,7 +15,7 @@ class HandmadeItem extends StatelessWidget {
     return Container(
       decoration: ShapeDecoration(
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
-        color:const Color.fromARGB(255, 245, 226, 231),
+        color:const Color(0xFFF5E2E7),
       ),
       child: Stack(
         children: [

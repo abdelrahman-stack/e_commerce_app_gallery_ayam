@@ -68,6 +68,11 @@ class MyTranslation extends Translations {
       '59': 'Order confirmed successfully',
       '60': 'Product added to cart',
       '61': 'Product removed from cart',
+      "62": "Details",
+      "63": "Comments",
+      "64": "No comments yet.",
+      "65": "Add a comment",
+      "66": "Comment deleted successfully",
     },
     'ar': {
       '1': 'اختر اللغة',
@@ -134,6 +139,11 @@ class MyTranslation extends Translations {
       '59': 'تم تأكيد الطلب بنجاح',
       '60': 'تم اضافة المنتج للسلة',
       '61': 'تم حذف المنتج من السلة',
+      '62': 'التفاصيل',
+      '63': 'التعليقات',
+      '64': 'لا توجد تعليقات حتى الآن.',
+      '65': 'أضف تعليقًا',
+      '66': 'تم حذف التعليق بنجاح',
     },
   };
 }

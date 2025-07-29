@@ -10,6 +10,6 @@ void showBar(BuildContext context, message) {
         duration: const Duration(seconds: 1),
         behavior: SnackBarBehavior.floating,
 
-        content: Text(message)));
+        content: Text(message,)));
   }
 

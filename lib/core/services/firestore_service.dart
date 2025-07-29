@@ -56,7 +56,7 @@ class FireStoreService implements DatabaseService {
   }
 
 
-    
+
 
 
 }
